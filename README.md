@@ -35,22 +35,9 @@
 - واجهة نظيفة وسهلة الاستخدام.
 
 ## صور من المشروع
+![Main Favicon](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/images.png)
 
-### 1. الصفحة الرئيسية
-![Home Screen](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/home-screen.png)
-
-### 2. قسم "About"
-![About Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/about-section.png)
-
-### 3. قسم "Services"
-![Services Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/services-section.png)
-
-### 4. قسم "Testimonials"
-![Testimonials Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/testimonials-section.png)
-
-### 5. قسم "Contact"
-![Contact Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/contact-section.png)
-
+![About Section Image](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/imageye___-_me.webp)
 ## 📬 معلومات التواصل
 
 - 📧 Email: [shehabali241@gmail.com](mailto:shehabali241@gmail.com)
