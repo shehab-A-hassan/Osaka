@@ -1,0 +1,149 @@
+html {
+  scroll-behavior: smooth;
+}
+:root{
+      --main-color:#ff206e;
+}
+.home{
+    background-image: url(../images/imageye___-_bg.webp);
+    background-position: center center;
+    background-size: cover;
+}
+.text-pink{
+    color: var(--main-color) !important;
+}
+.icon{
+    width: 60px;
+    height:60px;
+    transition: all 1s;
+}
+.icon:hover{
+    color: var(--main-color);
+}
+
+   
+#about{
+     background-image: url(../images/imageye___-_light_dot.webp);
+
+    .first-heddin{
+         font-size: 80px;
+         color: #00000068;
+         letter-spacing: 10px;
+    }
+      .second-heddin{
+         font-size: 60px;
+         letter-spacing: 5px;
+    }
+}
+#Services{
+    background-image: url(../images/imageye___-_dark_dot.webp);
+}
+.line{
+    background-color: var(--main-color);
+    height: 2px;
+ 
+}
+
+.carousel-indicators [data-bs-target] 
+{
+          text-indent:0 ;
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          overflow: hidden;
+}
+.bg{
+    background-color: #f1f1f1
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: var(--main-color);
+  border-radius: 50%;
+  padding: 20px;
+}
+#contact{
+  
+    .first-heddin{
+         font-size: 60px;
+         color: #fff;
+         letter-spacing: 10px;
+    }
+      .second-heddin{
+         font-size: 80px;
+         letter-spacing: 5px;
+         color: gray;
+    }
+}
+.color{
+    color:var(--main-color)
+}
+.btn.col{
+    background-color: var(--main-color);
+    transition: all 1s;
+     
+}
+.btn:hover{
+    background-color: #fff;
+}
+.navbar .nav-link {
+    transition: color 0.3s ease; 
+}
+
+.navbar .nav-link:hover {
+    color: #ff4081 !important; 
+}
+
+
+#testimonal{
+      
+    .first-heddin{
+         font-size: 60px;
+         color: #000000cc;
+         letter-spacing: 10px;
+    }
+      .second-heddin{
+         font-size: 80px;
+         letter-spacing: 5px;
+         color: rgba(128, 128, 128, 0.455);
+    }
+}
+.osaka-link{
+    color: #fff;
+    transition: all 1s;
+}
+.osaka-link:hover{
+    color: var(--main-color);
+}
+ .overly:hover .hover-top-0 {
+  top: 0 !important;
+}
+.transition {
+  transition: all 1s ;
+}
+.line-height{
+    line-height: 1;
+}
+
+.my-link {
+  color: black; 
+  text-decoration: none;
+  transition: all 1s;
+}
+
+.my-link:hover {
+  color: var(--main-color); 
+}
+.scale{
+    transition: all 1s;
+}
+.scale:hover{
+   
+    transform: scale(1.1);
+}
+.change{
+    transition: all 1s;
+}
+.scale:hover .change {
+   
+     color: var(--main-color)
+}
