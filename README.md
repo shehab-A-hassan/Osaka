@@ -34,8 +34,10 @@
 - تأثيرات **Hover** تضيف تفاعلًا مرئيًا سلسًا.
 - واجهة نظيفة وسهلة الاستخدام.
 
-## صور من المشروع
-![Main Favicon](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/images.png](https://raw.githubusercontent.com/shehab-A-hassan/Osaka/refs/heads/master/images/imageye___-_me.webp)
+
+## 📷 صور من المشروع
+![Home Screen](https://raw.githubusercontent.com/shehab-A-hassan/Osaka/refs/heads/master/images/imageye___-_me.webp)
+
 
 
 ## 📬 معلومات التواصل
