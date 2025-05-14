@@ -34,9 +34,22 @@
 - تأثيرات **Hover** تضيف تفاعلًا مرئيًا سلسًا.
 - واجهة نظيفة وسهلة الاستخدام.
 
-## 📷 صورة من المشروع
+## صور من المشروع
 
-> *(يمكنك هنا لاحقًا إضافة صورة من المشروع مثل سكرين شوت)*
+### 1. الصفحة الرئيسية
+![Home Screen](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/home-screen.png)
+
+### 2. قسم "About"
+![About Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/about-section.png)
+
+### 3. قسم "Services"
+![Services Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/services-section.png)
+
+### 4. قسم "Testimonials"
+![Testimonials Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/testimonials-section.png)
+
+### 5. قسم "Contact"
+![Contact Section](https://raw.githubusercontent.com/shehab-a-hassan/Osaka/main/images/contact-section.png)
 
 ## 📬 معلومات التواصل
 
