@@ -48,7 +48,7 @@ Experiencing building a complete website from scratch
 
 
 🔗 Live Preview
-Click here to view the live project
+Click [here to view the live project](https://shehab-a-hassan.github.io/Osaka/)
 
 📧 Contact
 For any inquiries or communication, please reach out at:
