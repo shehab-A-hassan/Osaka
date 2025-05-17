@@ -1,40 +1,55 @@
-                                                                # 🌸 OSAKA - Personal Portfolio Website
+🌸 OSAKA - Personal Portfolio Website
+This is my third project which I designed and developed using HTML, CSS, and Bootstrap, with the use of semantic elements to improve the page structure and content organization.
 
-هذا هو مشروعي الثالث لذي قمت بتصميمه وتطويره باستخدام **HTML** و **CSS** و **Bootstrap** مع استخدام **العناصر السيمانتكية (semantic elements)** لتحسين هيكلة الصفحة وتنظيم المحتوى.
+📌 Project Idea
+A personal website showcasing a web developer and designer’s profile, featuring sections such as:
 
-## 📌 فكرة المشروع  
-موقع شخصي يعرض نبذة عن مطور ومصمم ويب، مع أقسام مثل:  
-- الصفحة الرئيسية  
-- من أنا (About)  
-- الخدمات (Services)  
-- آراء العملاء (Testimonial)  
-- تواصل معنا (Contact)
+Home
 
-تم بناء الموقع لتقديم نفسي بشكل احترافي باستخدام تقنيات الويب الأساسية مع تنظيم المحتوى بطريقة سليمة عبر العناصر السيمانتكية.
+About
 
-## 🛠️ التقنيات المستخدمة  
-- HTML5 
-- CSS3  
-- Bootstrap 5  
-- JavaScript (لـ Carousel في قسم الآراء)  
-- FontAwesome للأيقونات  
+Services
 
-## 🎯 الهدف من المشروع  
-- تطبيق مفاهيم العناصر السيمانتكية في HTML  
-- تصميم موقع شخصي متجاوب وجذاب  
-- استخدام مكتبات CSS و JS لتحسين الشكل والوظائف  
-- تجربة بناء موقع متكامل من الصفر  
+Testimonials
 
-## 📸 صورة من المشروع  
+Contact
+
+The site is built to professionally present myself using fundamental web technologies while organizing content properly through semantic elements.
+
+🛠️ Technologies Used
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+JavaScript (for the Carousel in the Testimonials section)
+
+FontAwesome for icons
+
+🎯 Project Goals
+Applying semantic HTML concepts
+
+Designing a responsive and visually appealing personal website
+
+Utilizing CSS and JS libraries to enhance appearance and functionality
+
+Experiencing building a complete website from scratch
+
+📸 Project Screenshots
 ![Preview](https://github.com/shehab-A-hassan/Osaka/blob/master/images/screenshot/Screenshot%202025-05-17%20152321.png)
 ![Preview](https://github.com/shehab-A-hassan/Osaka/blob/master/images/screenshot/Screenshot%202025-05-17%20152402.png)
 ![Preview](https://github.com/shehab-A-hassan/Osaka/blob/master/images/screenshot/Screenshot%202025-05-17%20152540.png)
 ![Preview](https://github.com/shehab-A-hassan/Osaka/blob/master/images/screenshot/Screenshot%202025-05-17%20152620.png)
 ![Preview](https://github.com/shehab-A-hassan/Osaka/blob/master/images/screenshot/Screenshot%202025-05-17%20152711.png)
 
-## 🔗 رابط المعاينة (Live Preview)  
-[اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Osaka/)  
 
-## 📧 للتواصل  
-للتواصل أو الاستفسار، يرجى مراسلتي على:  
-**shehabali241@gmail.com**
+
+
+
+🔗 Live Preview
+Click here to view the live project
+
+📧 Contact
+For any inquiries or communication, please reach out at:
+shehabali241@gmail.com
